@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: 1ae342b4d1c525c4187a6f2d3221bd52
+timeCreated: 1475721723
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ctrl_Gnral
+    100002: ctrlBack
+    100004: ctrlHead
+    100006: ctrlLeftElbow
+    100008: ctrlLeftFoot
+    100010: ctrlLeftHand
+    100012: ctrlLeftKnee
+    100014: ctrlLeftLeg
+    100016: ctrlLeftShoulder
+    100018: ctrlLowBack
+    100020: ctrlRightElbow
+    100022: ctrlRightFoot
+    100024: ctrlRightHand
+    100026: ctrlRightKnee
+    100028: ctrlRightLeg
+    100030: ctrlRightShoulder
+    100032: ctrlTail
+    100034: ctrlTail02
+    100036: ctrlTail03
+    100038: GRP_Miruku
+    100040: GRP_Miruku_Joints
+    100042: Hipctrl
+    100044: JNT_General
+    100046: JNT_Miruku_Chest
+    100048: JNT_Miruku_Head
+    100050: JNT_Miruku_Hip
+    100052: JNT_Miruku_LeftElbow
+    100054: JNT_Miruku_LeftHand
+    100056: JNT_Miruku_LeftKnee
+    100058: JNT_Miruku_LeftLeg
+    100060: JNT_Miruku_LeftShoulder
+    100062: JNT_Miruku_LeftTip
+    100064: JNT_Miruku_LeftToe
+    100066: JNT_Miruku_LeftWrist
+    100068: JNT_Miruku_Neck
+    100070: JNT_Miruku_RightElbow
+    100072: JNT_Miruku_RightHand
+    100074: JNT_Miruku_RightKnee
+    100076: JNT_Miruku_RightLeg
+    100078: JNT_Miruku_RightShoulder
+    100080: JNT_Miruku_RightTip
+    100082: JNT_Miruku_RightToe
+    100084: JNT_Miruku_RightWrist
+    100086: JNT_Miruku_Tail
+    100088: JNT_Miruku_Tail02
+    100090: JNT_Miruku_Tail03
+    100092: JNT_Miruku_TailTip
+    100094: JNT_Miruku_Weist
+    100096: //RootNode
+    100098: mP_Miruku_Body
+    100100: mP_Miruku_PropHat
+    100102: mP_Miruku_Shorts
+    100104: pPlane1
+    100106: transform1
+    100108: transform1_ncl1_1
+    100110: transform1_ncl1_2
+    100112: transform1_ncl1_3
+    100114: transform1_ncl1_4
+    100116: transform2
+    100118: transform2_ncl1_1
+    100120: transform2_ncl1_2
+    100122: transform2_ncl1_3
+    400000: Ctrl_Gnral
+    400002: ctrlBack
+    400004: ctrlHead
+    400006: ctrlLeftElbow
+    400008: ctrlLeftFoot
+    400010: ctrlLeftHand
+    400012: ctrlLeftKnee
+    400014: ctrlLeftLeg
+    400016: ctrlLeftShoulder
+    400018: ctrlLowBack
+    400020: ctrlRightElbow
+    400022: ctrlRightFoot
+    400024: ctrlRightHand
+    400026: ctrlRightKnee
+    400028: ctrlRightLeg
+    400030: ctrlRightShoulder
+    400032: ctrlTail
+    400034: ctrlTail02
+    400036: ctrlTail03
+    400038: GRP_Miruku
+    400040: GRP_Miruku_Joints
+    400042: Hipctrl
+    400044: JNT_General
+    400046: JNT_Miruku_Chest
+    400048: JNT_Miruku_Head
+    400050: JNT_Miruku_Hip
+    400052: JNT_Miruku_LeftElbow
+    400054: JNT_Miruku_LeftHand
+    400056: JNT_Miruku_LeftKnee
+    400058: JNT_Miruku_LeftLeg
+    400060: JNT_Miruku_LeftShoulder
+    400062: JNT_Miruku_LeftTip
+    400064: JNT_Miruku_LeftToe
+    400066: JNT_Miruku_LeftWrist
+    400068: JNT_Miruku_Neck
+    400070: JNT_Miruku_RightElbow
+    400072: JNT_Miruku_RightHand
+    400074: JNT_Miruku_RightKnee
+    400076: JNT_Miruku_RightLeg
+    400078: JNT_Miruku_RightShoulder
+    400080: JNT_Miruku_RightTip
+    400082: JNT_Miruku_RightToe
+    400084: JNT_Miruku_RightWrist
+    400086: JNT_Miruku_Tail
+    400088: JNT_Miruku_Tail02
+    400090: JNT_Miruku_Tail03
+    400092: JNT_Miruku_TailTip
+    400094: JNT_Miruku_Weist
+    400096: //RootNode
+    400098: mP_Miruku_Body
+    400100: mP_Miruku_PropHat
+    400102: mP_Miruku_Shorts
+    400104: pPlane1
+    400106: transform1
+    400108: transform1_ncl1_1
+    400110: transform1_ncl1_2
+    400112: transform1_ncl1_3
+    400114: transform1_ncl1_4
+    400116: transform2
+    400118: transform2_ncl1_1
+    400120: transform2_ncl1_2
+    400122: transform2_ncl1_3
+    2300000: mP_Miruku_PropHat
+    2300002: pPlane1
+    3300000: mP_Miruku_PropHat
+    3300002: pPlane1
+    4300000: mP_Miruku_Shorts
+    4300002: mP_Miruku_Body
+    4300004: mP_Miruku_PropHat
+    4300006: pPlane1
+    7400000: Idle
+    7400002: Run
+    7400004: Attack
+    7400006: Jump
+    7400008: Hurt
+    7400010: Death
+    9500000: //RootNode
+    13700000: mP_Miruku_Body
+    13700002: mP_Miruku_Shorts
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_Miruku
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Body
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Shorts
+        weight: 1
+      - path: GRP_Miruku_Joints
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLowBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlRightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlTail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/ctrlLeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform1_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform2_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe/JNT_Miruku_LeftTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/ctrlRightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform1_ncl1_4
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform2_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe/JNT_Miruku_RightTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/ctrlTail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/ctrlTail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03/JNT_Miruku_TailTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/ctrlBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead/transform1_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlLeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlRightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/ctrlLeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform1_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform2_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist/JNT_Miruku_LeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head/mP_Miruku_PropHat
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/ctrlRightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist/JNT_Miruku_RightHand
+        weight: 1
+      - path: Hipctrl
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 114
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_Miruku
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Body
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Shorts
+        weight: 1
+      - path: GRP_Miruku_Joints
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLowBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlRightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlTail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/ctrlLeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform1_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform2_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe/JNT_Miruku_LeftTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/ctrlRightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform1_ncl1_4
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform2_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe/JNT_Miruku_RightTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/ctrlTail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/ctrlTail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03/JNT_Miruku_TailTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/ctrlBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead/transform1_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlLeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlRightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/ctrlLeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform1_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform2_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist/JNT_Miruku_LeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head/mP_Miruku_PropHat
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/ctrlRightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist/JNT_Miruku_RightHand
+        weight: 1
+      - path: Hipctrl
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_Miruku
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Body
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Shorts
+        weight: 1
+      - path: GRP_Miruku_Joints
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLowBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlRightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlTail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/ctrlLeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform1_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform2_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe/JNT_Miruku_LeftTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/ctrlRightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform1_ncl1_4
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform2_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe/JNT_Miruku_RightTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/ctrlTail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/ctrlTail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03/JNT_Miruku_TailTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/ctrlBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead/transform1_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlLeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlRightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/ctrlLeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform1_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform2_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist/JNT_Miruku_LeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head/mP_Miruku_PropHat
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/ctrlRightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist/JNT_Miruku_RightHand
+        weight: 1
+      - path: Hipctrl
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 162
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_Miruku
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Body
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Shorts
+        weight: 1
+      - path: GRP_Miruku_Joints
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLowBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlRightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlTail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/ctrlLeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform1_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform2_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe/JNT_Miruku_LeftTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/ctrlRightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform1_ncl1_4
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform2_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe/JNT_Miruku_RightTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/ctrlTail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/ctrlTail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03/JNT_Miruku_TailTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/ctrlBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead/transform1_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlLeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlRightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/ctrlLeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform1_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform2_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist/JNT_Miruku_LeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head/mP_Miruku_PropHat
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/ctrlRightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist/JNT_Miruku_RightHand
+        weight: 1
+      - path: Hipctrl
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hurt
+      takeName: Take 001
+      firstFrame: 162
+      lastFrame: 173
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_Miruku
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Body
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Shorts
+        weight: 1
+      - path: GRP_Miruku_Joints
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLowBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlRightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlTail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/ctrlLeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform1_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform2_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe/JNT_Miruku_LeftTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/ctrlRightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform1_ncl1_4
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform2_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe/JNT_Miruku_RightTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/ctrlTail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/ctrlTail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03/JNT_Miruku_TailTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/ctrlBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead/transform1_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlLeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlRightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/ctrlLeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform1_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform2_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist/JNT_Miruku_LeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head/mP_Miruku_PropHat
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/ctrlRightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist/JNT_Miruku_RightHand
+        weight: 1
+      - path: Hipctrl
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 162
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_Miruku
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Body
+        weight: 1
+      - path: GRP_Miruku/mP_Miruku_Shorts
+        weight: 1
+      - path: GRP_Miruku_Joints
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlLowBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlRightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/ctrlTail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/ctrlLeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform1_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/ctrlLeftFoot/transform2_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_LeftLeg/JNT_Miruku_LeftKnee/JNT_Miruku_LeftToe/JNT_Miruku_LeftTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/ctrlRightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform1_ncl1_4
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/ctrlRightFoot/transform2_ncl1_3
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_RightLeg/JNT_Miruku_RightKnee/JNT_Miruku_RightToe/JNT_Miruku_RightTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/ctrlTail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/ctrlTail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Tail/JNT_Miruku_Tail02/JNT_Miruku_Tail03/JNT_Miruku_TailTip
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/ctrlBack
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlHead/transform1_ncl1_2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlLeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/ctrlRightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/ctrlLeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform1_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/ctrlLeftHand/transform2_ncl1_1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_LeftShoulder/JNT_Miruku_LeftElbow/JNT_Miruku_LeftWrist/JNT_Miruku_LeftHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_Neck/JNT_Miruku_Head/mP_Miruku_PropHat
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/ctrlRightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform1
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/ctrlRightHand/transform2
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist
+        weight: 1
+      - path: GRP_Miruku_Joints/Ctrl_Gnral/JNT_General/JNT_Miruku_Hip/JNT_Miruku_Weist/JNT_Miruku_Chest/JNT_Miruku_RightShoulder/JNT_Miruku_RightElbow/JNT_Miruku_RightWrist/JNT_Miruku_RightHand
+        weight: 1
+      - path: Hipctrl
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
